@@ -32,10 +32,6 @@ I focus on **cyber defense, ethical hacking, and AI-driven detection**—buildin
 
 ---
 
-## ⚙️ Cybersecurity Skills 
-<p align="center">
-  <img src="./harshith_cyber_skills (1).gif" alt="Harshith Jella — Cybersecurity Skills" width="800" />
-</p>
 
 ---
 
