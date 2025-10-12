@@ -1,5 +1,5 @@
 <!-- ========= HERO ========= -->
-<h2 align="left">Hi 👋, I'm Harshith Jella<br>🔐 Cybersecurity Enthusiast | AI Explorer | Python Practitioner</h2>
+<h2 align="Centre">Hi 👋, I'm Harshith Jella<br>🔐 Cybersecurity Enthusiast | AI Explorer | Python Practitioner</h2>
 
 ---
 
@@ -75,6 +75,4 @@ Outside the screen, I’m someone who enjoys exploring the unknown — whether i
 
 <p>
 
-![Snake animation](https://github.com/jellaharshith/jellaharshith/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![Snake animation](https://github.com/jellaharshith/jellaharshith/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
