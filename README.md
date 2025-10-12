@@ -74,4 +74,7 @@ Outside the screen, I’m someone who enjoys exploring the unknown — whether i
 </table>
 
 <p>
-  
+
+![Snake animation](https://github.com/jellaharshith/jellaharshith/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/jellaharshith/jellaharshith/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
