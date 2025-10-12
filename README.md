@@ -1,53 +1,48 @@
 <!--
   GitHub Profile README for Harshith Jella (jellaharshith)
-  Files needed in repo root: harshith_cyber_skills (1).gif, tools_banner.gif
+  Make sure these files exist in the repo root:
+  - harshith_cyber_skills (1).gif
+  - tools_banner.gif
 -->
 
-<h1 align="left">Hi 👋, I'm Harshith Jella</h1>
-<h3 align="left">🔒 Cybersecurity Enthusiast | 🧠 Security Researcher | 🐍 Python Practitioner</h3>
+<h2 align="left">Hi 👋, I'm Harshith Jella<br>🔐 Cybersecurity Enthusiast | AI Explorer | Python Practitioner</h2>
 
 ---
 
-## 👨‍💻 About Me
-I’m **Harshith Jella**, a **Cybersecurity & AI Developer** and **Computer Science undergrad** at **California State University, East Bay** (GPA **3.89**, graduating **Spring 2027**).  
-I focus on **cyber defense, ethical hacking, and AI-driven detection**—building practical security labs and sharing reproducible notes.
+### 🧑‍💻 About Me
+<img align="right" src="https://github.com/jellaharshith.png?size=320" width="220" alt="Harshith Jella — Profile Photo" />
 
-**Currently exploring:** Threat detection automation · SOC operations · Red/Blue team practices · Cloud security fundamentals
+I’m **Harshith Jella**, a **Cybersecurity & AI Developer** and **Computer Science undergrad** at **California State University, East Bay** (GPA **3.89**, graduating **Spring 2027**).
+
+I’m passionate about **cyber defense, ethical hacking, and AI-driven detection**.  
+I enjoy building security labs, writing automation scripts, and exploring how AI can improve modern threat detection & response.
+
+
+<br clear="right"/>
 
 ---
 
-## 🧰 Cybersecurity Skills
-**Security Domains:** Network Security · Ethical Hacking · Penetration Testing · Threat Detection · Incident Response · Vulnerability Assessment · Digital Forensics  
+### 🛡️ Cybersecurity Skills
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1pMnp5bzB1emVkNHR6eTc4NWNjbWt2YmxyYWd2NXNiaXgzaGlxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="240" alt="Cyber Animation" />
+
+**Domains:** Network Security · Ethical Hacking · Penetration Testing · Threat Detection · Incident Response · Vulnerability Assessment · Digital Forensics  
 **Tools & Frameworks:** Kali Linux · Metasploit · Wireshark · Nmap · OpenVAS · Splunk · UFW/iptables · VirtualBox · MITRE ATT&CK  
-**Techniques:** Security Analysis · System Hardening · Red/Blue Team Exercises · Log Analysis · Malware Detection · Firewall Configuration  
+**Techniques:** System Hardening · Log Analysis · Red/Blue Team Exercises · Firewall Configuration · Malware Detection  
 **Programming for Security:** Python (automation & analysis) · Bash  
-**Soft Skills:** Analytical Thinking · Problem Solving · Communication · Leadership · Collaboration  
+**Soft Skills:** Analytical Thinking · Problem Solving · Leadership · Communication · Collaboration  
+
+<br clear="right"/>
 
 ---
 
-## 🪪 Certifications
+### 🪪 Certifications
+<img align="right" src="./harshith_cyber_skills (1).gif" width="250" alt="Cybersecurity Skills Animation" />
+
 - 🎓 **Executive PG Certification — Cybersecurity & Ethical Hacking** — *IIT Roorkee (2025)*  
 - 💡 **Certified Ethical Hacker (CEH v11)** — *EC-Council (2022)*  
 - 🔐 **Introduction to Cybersecurity** — *Cisco (2023)*  
 
----
-
-
----
-
-## 🧰 Security Tools 
-<p align="center">
-  <img src="./tools_banner.gif" alt="Security Tools — Wireshark, Burp Suite, Snort, Kali, OpenVAS, Nmap, Hydra, OWASP, Autopsy, Nikto, Aircrack-ng, Metasploit, UFW/iptables, Splunk, Python, MySQL, HTML5, Exterro" width="900" />
-</p>
+<br clear="right"/>
 
 ---
-
-## 🔗 Connect
-<p>
-<a href="https://www.linkedin.com/in/harshith-jella"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://discord.com"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-
----
-
 
