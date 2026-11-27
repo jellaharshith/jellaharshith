@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=640&lines=AI+Security+%C2%B7+Offensive+Security;Building+human-in-the-loop+AI+security+tools;Model+proposes+%E2%86%92+policy+decides+%E2%86%92+human+approves" alt="Typing SVG" />
 </a>
 
-**CS @ Cal State East Bay (May 2027) · CEH v11 · HackerOne bug bounty hunter**
+**CS @ Cal State East Bay (May 2027)  · HackerOne bug bounty hunter**
 
 ![Open to](https://img.shields.io/badge/Open_to-AI_Security_Engineer_·_FDE_Security_Engineer-00BFFF?style=for-the-badge)
 
